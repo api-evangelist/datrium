@@ -53,7 +53,7 @@ tags:
 - Disaster Recovery
 - Cloud
 - Enterprise IT
-- Data-Center
+- Data Center
 - Acquired
 - Defunct
 tags_raw:
@@ -66,6 +66,7 @@ tags_raw:
 - Data Center
 - Acquired
 - Defunct
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
